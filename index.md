@@ -7,6 +7,10 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 [為什麼選擇 Kotlin](why-kotlin.md)
 
+## 學習資源
+
+[書單](book-list.md)
+
 ## 活動歷程
 
 ### 2021-08-31 [2021 Kotlin Meetup #3 Online](https://www.facebook.com/events/1264189300692421/)
