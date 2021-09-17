@@ -35,8 +35,6 @@ list.filter { it > 0 }
 a = b.also { b = a }
 ```
 
-建立
-
 ## 安全
 
 編譯階段就避免 `null` 產生問題
