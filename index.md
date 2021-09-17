@@ -7,6 +7,8 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 [為什麼選擇 Kotlin](why-kotlin.md)
 
+[後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
+
 ## 學習資源
 
 [書單](book-list.md)
@@ -31,7 +33,7 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
   * GDG 台中 <https://www.facebook.com/GDG.Taichung/>
   * GDG 高雄 <https://www.facebook.com/groups/GDGKaohsiung/> 
   * GDG 花蓮 <https://www.facebook.com/GDGHualien/>
-* Taiwan Backend Group https://www.facebook.com/groups/taiwanbackendgroup>
+* Taiwan Backend Group <https://www.facebook.com/groups/taiwanbackendgroup>
 
 ## 聯繫我們
 
