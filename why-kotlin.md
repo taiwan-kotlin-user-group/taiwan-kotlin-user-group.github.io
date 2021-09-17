@@ -8,7 +8,11 @@
 建立 POJO（Plain Old Java Object）類別，用 `data class` 關鍵字即可
 
 ```kotlin
-data class Customer(val name: String, val email: String, val company: String)
+data class Customer(
+    val name: String,
+    val email: String,
+    val company: String
+)
 ```
 
 建立單例模式（Singleton），用 `object` 關鍵字即可
