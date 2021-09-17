@@ -21,8 +21,17 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 ## 合作夥伴
 
-* [Kotlin Taipei](https://www.facebook.com/groups/117755722221972)
-* [Kotlin Tips](https://kotlin.tips/)
+* Kotlin Taipei <https://www.facebook.com/groups/117755722221972/>
+* TWJUG <https://www.facebook.com/groups/twjug/>
+* Android Developer開發讀書會 <https://www.facebook.com/groups/523386591081376>
+* GDG 社群
+  * GDG 台北 <https://www.facebook.com/GDG.Taipei/>
+  * GDG 桃園 <https://www.facebook.com/GDG.Taoyuan/> 
+  * GDG 新竹 <https://www.facebook.com/GDG.Hsinchu/> 
+  * GDG 台中 <https://www.facebook.com/GDG.Taichung/>
+  * GDG 高雄 <https://www.facebook.com/groups/GDGKaohsiung/> 
+  * GDG 花蓮 <https://www.facebook.com/GDGHualien/>
+* Taiwan Backend Group https://www.facebook.com/groups/taiwanbackendgroup>
 
 ## 聯繫我們
 
