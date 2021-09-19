@@ -32,7 +32,7 @@ fun testRoot() {
     withTestApplication({ module(testing = true) }) {
         handleRequest(HttpMethod.Get, "/").apply {
             assertEquals(HttpStatusCode.OK, response.status())
-            assertEquals(".toString()", response.content)
+            assertEquals("Hello", response.content)
         }
     }
 }
@@ -40,3 +40,4 @@ fun testRoot() {
 
 ## Exposed ORM 框架
 
+利用 Exposed 框架
