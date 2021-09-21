@@ -9,6 +9,8 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 [後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
 
+[Kotlin 語法特色](kotlin-syntax.md)
+
 ## 學習資源
 
 [書單](book-list.md)
