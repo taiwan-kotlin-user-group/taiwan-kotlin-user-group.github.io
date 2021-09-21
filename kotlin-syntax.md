@@ -307,7 +307,7 @@ val name: String? = null    // 刻意宣告 name 可以為 null
 println(name.length())      // 無法通過編譯
 ```
 ## Pretty Lambda
-好閱讀的 lambda 函數宣告法
+容易閱讀的 lambda 函數宣告法
 
 讓程式邏輯易懂又好讀
 
