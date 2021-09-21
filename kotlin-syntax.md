@@ -11,6 +11,7 @@ data class Customer(
     val name: String,
     val email: String
 )
+
 /*
 Java 寫法
 public class Customer {
