@@ -290,6 +290,7 @@ reformat(
 ```
 
 ## Null Check
+
 編譯階段就避免 `null` 產生問題
 
 減少 `NullPointerException` 出現
