@@ -34,9 +34,9 @@ public class Customer {
 */
 ```
 ## var and val
-用 `val` 宣告不可更改的值
+用 `val` 宣告不可更改的值（value）
 
-用 `var` 宣告可以更改的變數
+用 `var` 宣告可以更改的變數（variable）
 
 讓意外更動常數的機會降低
 
