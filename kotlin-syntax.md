@@ -410,5 +410,3 @@ for ((name, age) in map) {
 想了解更多 Kotlin 的語法特點嗎？
 
 歡迎加入 kotlin.tips 的 [Kotlin 讀書會](https://tw.kotlin.tips/study-jams) ！
-
-#Kotlin #TKUG
