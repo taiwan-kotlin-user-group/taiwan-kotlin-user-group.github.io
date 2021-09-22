@@ -12,6 +12,8 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 [Kotlin 語法特色](kotlin-syntax.md)
 
+[Kotlin 慣用寫法](idioms.md)
+
 ## 前端工程師請看
 
 [Kotlin 和 Javascript 的比較](kotlin-vs-js.md)
