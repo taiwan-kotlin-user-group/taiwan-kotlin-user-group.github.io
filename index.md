@@ -4,7 +4,6 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 如果對 Kotlin 有興趣，想要多瞭解一些，歡迎來我們的社群一起聚會！
 
-
 [為什麼選擇 Kotlin](why-kotlin.md)
 
 [後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
@@ -39,6 +38,8 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 ## 聯繫我們
 
-可以透過 <https://www.facebook.com/kotlintwn> 聯繫我們
+有任何問題嗎？
+
+歡迎到 <https://www.facebook.com/kotlintwn> 聯繫我們！
 
 
