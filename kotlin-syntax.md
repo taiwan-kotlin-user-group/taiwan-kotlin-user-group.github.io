@@ -6,7 +6,7 @@
 用 `data` 宣告純資料物件（POJO，Plain Old Java Object）
 
 看起來更加簡潔
-```kotlin {.line-numbers}
+```kotlin
 data class Customer(
     val name: String,
     val email: String
