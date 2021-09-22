@@ -272,7 +272,7 @@ reformat(
 
 只列出我們需要更動的參數
 
-```
+```kotlin
 reformat("String!", upperCaseFirstLetter = false)
 
 /*
@@ -310,7 +310,6 @@ println(name.length())      // 無法通過編譯
 讓程式邏輯易懂又好讀
 
 ```kotlin
-
 val printInteger = fun Int.() { println(this) }  
 numbers.forEach { printInteger(it) }
 ```
