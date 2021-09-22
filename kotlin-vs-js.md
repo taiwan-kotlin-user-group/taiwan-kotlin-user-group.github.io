@@ -161,7 +161,7 @@ JavaScript 用 `...args` 來宣告
 function sum(...args) {
 	let sum = 0;
 	for (arg of args) {
-	  sum += arg;
+	    sum += arg;
 	}
 	return sum;
 }
@@ -205,7 +205,7 @@ function getUserGroup() {
 }  
 async function printUserGroup() {  
     const group = await getUserGroup();  
- console.log(group); // printed after 1 sec  
+    console.log(group); // printed after 1 sec  
 }  
 printUserGroup();  
 console.log("Taiwan");
@@ -419,8 +419,8 @@ JavaScript 目前不支援類似做法
 ```kotlin
 fun printResult(  
     first: Int = 0,  
- second: Int = 0,  
- operation: (Int, Int) -> Int  
+    second: Int = 0,  
+    operation: (Int, Int) -> Int  
 ) {  
     println(operation(first, second))  
 }  
@@ -436,8 +436,8 @@ printResult(1, 2) { a: Int, b: Int -> a + b } // 3
 ```kotlin
 fun printResult(  
     first: Int = 0,  
- second: Int = 0,  
- operation: (Int, Int) -> Int  
+    second: Int = 0,  
+    operation: (Int, Int) -> Int  
 ) {  
     println(operation(first, second))  
 }  
@@ -468,3 +468,5 @@ get("/html-dsl") {
     }  
 }
 ```
+
+還有想知道的嗎？歡迎看看 [Kotlin 語法特色](kotlin-syntax.md) 的介紹！
