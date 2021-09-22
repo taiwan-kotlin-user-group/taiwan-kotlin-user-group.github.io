@@ -57,3 +57,13 @@ val name: String? = null    // 刻意宣告 name 可以為 null
 println(name.length())      // 無法通過編譯
 ```
 
+-----
+
+想了解更多嗎？
+
+可以看看 
+
+* [Kotlin 語法特色](kotlin-syntax.md)
+* [Kotlin 慣用寫法](idioms.md)
+
+或加入 kotlin.tips 的 Kotlin 讀書會 ！
