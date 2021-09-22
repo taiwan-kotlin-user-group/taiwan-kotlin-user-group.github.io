@@ -10,9 +10,15 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 [為什麼選擇 Kotlin](why-kotlin.md)
 
-[後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
-
 [Kotlin 語法特色](kotlin-syntax.md)
+
+## 前端工程師請看
+
+[Kotlin 和 Javascript 的比較](kotlin-vs-js.md)
+
+## 後端工程師請看
+
+[後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
 
 ## 學習資源
 
