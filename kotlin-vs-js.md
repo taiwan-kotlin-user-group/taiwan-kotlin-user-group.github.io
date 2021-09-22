@@ -49,10 +49,10 @@ a = 42
 Kotlin
 ```kotlin
 fun printResult(
-	first: Int,
-	second: Int,
-	operation: (Int, Int) -> Int
-) {  
+    first: Int,
+    second: Int,
+    operation: (Int, Int) -> Int
+) {
     println(operation(first, second))  
 }  
   
@@ -82,9 +82,9 @@ printResult(1.0, 2.0, add); // 3
 Kotlin
 ```kotlin
 fun printResult(
-	operation: (Int, Int) -> Int,
-	first: Int = 0,
-	second: Int = 0
+    operation: (Int, Int) -> Int,
+    first: Int = 0,
+    second: Int = 0
 ) {  
     println(operation(first, second))  
 }  
@@ -148,8 +148,8 @@ Kotlin 用 `vararg` 關鍵字來宣告
 fun sum(vararg ts: Int): Int {
     var sum = 0
     for (t in ts) {
-		sum += t
-	}
+        sum += t
+    }
     return sum
 }
 
@@ -159,11 +159,11 @@ println(sum(1,2,3,4)) // 10
 JavaScript 用 `...args` 來宣告
 ```javascript
 function sum(...args) {
-	let sum = 0;
-	for (arg of args) {
-	    sum += arg;
-	}
-	return sum;
+    let sum = 0;
+    for (arg of args) {
+        sum += arg;
+    }
+    return sum;
 }
 console.log(sum(1,2,3,4)); // 10
 ```
@@ -185,8 +185,8 @@ suspend fun getUserGroup(): String {
 
 fun main() {  
     runBlocking {  
- 		val group = async { getUserGroup()  }  
- 		println("Taiwan ")  
+        val group = async { getUserGroup()  }  
+        println("Taiwan ")  
         println(group.await())  
     }  
 }
@@ -200,8 +200,8 @@ function getUserGroup() {
     return new Promise((resolve) => {  
         setTimeout(() => {
             resolve("Kotlin User Group");  
- 		}, 1000);  
- 	});  
+        }, 1000);  
+    });  
 }  
 async function printUserGroup() {  
     const group = await getUserGroup();  
@@ -276,7 +276,7 @@ Kotlin 用 `fun` 關鍵字宣告函數
 
 ```kotlin
 fun hello() {
-	println("hello")
+    println("hello")
 }
 ```
 
@@ -308,7 +308,7 @@ JavaScript 是弱型別語言
 
 ```js
 function add(a, b) {
-	return a + b;
+    return a + b;
 }
 ```
 
@@ -320,7 +320,7 @@ function add(a, b) {
 
 ```js
 function add(a, b) {
-	return a + b;
+    return a + b;
 }
 
 add(1.0, 2.0); // 3
@@ -397,9 +397,9 @@ Kotlin 允許宣告函數時加上參數名稱
 
 ```kotlin
 fun printResult(
-	first: Int = 0,
-	second: Int = 0,
-	operation: (Int, Int) -> Int
+    first: Int = 0,
+    second: Int = 0,
+    operation: (Int, Int) -> Int
 ) {  
     println(operation(first, second))  
 }  
