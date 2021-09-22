@@ -463,3 +463,5 @@ IntelliJ IDEA 的 kotlin plugin 認得 `TODO()`
 想了解更多嗎？
 
 可以看看 [Kotlin 語法特色](kotlin-syntax.md)
+
+或加入 kotlin.tips 的 [Kotlin 讀書會](https://tw.kotlin.tips/study-jams) ！
