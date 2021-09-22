@@ -11,8 +11,9 @@ data class Customer(
     val name: String,
     val email: String
 )
-/*
-Java 寫法
+```
+比對 Java 寫法
+```java
 public class Customer {
     public String name; 
     public String email;
@@ -31,7 +32,6 @@ public class Customer {
     }
     // ...
 }
-*/
 ```
 ## var and val
 用 `val` 宣告不可更改的值（value）
@@ -58,12 +58,11 @@ a = 42
 ```kotlin
 fun main() {
 }
-
-/*
-等同 Java
+```
+比對 Java 寫法
+```java
 public static void main() {
 }
-*/
 ```
 
 ## default class are final
@@ -155,8 +154,9 @@ when (x) {
         println("x is neither 1 nor 2")
     }
 }
-/*
-等同 Java
+```
+比對 Java 寫法
+```java
 switch(x) {
     case 1:
         System.out.println("x == 1");
@@ -167,9 +167,7 @@ switch(x) {
     default:
         System.out.println("x is neither 1 nor 2");
 }
-*/
 ```
-
 `when` 和 `if` 一樣可以直接用在變數賦值
 
 ```kotlin
@@ -204,8 +202,9 @@ fun getState(x: Int): String = when (x % 3) {
 object ThisIsASingleton {
     val name: String = "Taiwan Kotlin User Group"
 }
-/*
-Java 寫法
+```
+比對 Java 寫法
+```java
 public class ThisIsASingleton {  
     private static final ThisIsASingleton instance = new ThisIsASingleton();  
     private static final String name = "Taiwan Kotlin User Group";  
@@ -214,7 +213,6 @@ public class ThisIsASingleton {
         return instance;  
     }  
 }
-*/
 ```
 ## Elvis Operator
 引入 `?.` 和 `?:`
@@ -315,14 +313,13 @@ println(name.length())      // 無法通過編譯
 
 val printInteger = fun Int.() { println(this) }  
 numbers.forEach { printInteger(it) }
-
-/*
-等同 Java
+```
+比對 Java 寫法
+```java
 import java.util.function.Consumer;
 
 Consumer<Integer> printInteger = (n) -> { System.out.println(n); };
-    numbers.forEach( printInteger );
-*/
+numbers.forEach( printInteger );
 ```
 ## String Interpolation
 字串樣板讓程式在字串處理時更加易懂
@@ -332,18 +329,16 @@ Consumer<Integer> printInteger = (n) -> { System.out.println(n); };
 ```kotlin
 val bestLanguage = "Kotlin"
 println("Taiwan $bestLanguage User Group")
-
-/*
-等同 Java
+```
+比對 Java 寫法
+```java
 String bestLanguage = "Kotlin";  
 System.out.println(
     "Taiwan " 
     + bestLanguage 
     + " User Group"
 );
-*/
 ```
-
 ## Operator Overloading
 
 除了函數可以多載
