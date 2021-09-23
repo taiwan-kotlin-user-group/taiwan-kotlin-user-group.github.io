@@ -1,4 +1,3 @@
-# Kotlin 入門範例
 下面提供 Kotlin  的一些入門範例
 
 ## Hello world
@@ -18,7 +17,7 @@ Kotlin 程式的進入點是 `main()` 函數
  
 ## 函數
  
- ```
+```kotlin
 fun printMessage(message: String): Unit {
 	println(message)
 }
@@ -32,7 +31,7 @@ fun printMessage(message: String): Unit {
  
 ### 預設參數
  
-```
+```kotlin
 fun printWelcomeMessage(name: String = "World") {
 	println("Hello $name!")
 }
@@ -127,7 +126,7 @@ num = "two" // Type mismatch.
 
 在嘗試讀取該變數時會出現錯誤
 
-```
+```kotlin
 var name: String
 println(name) // Variable 'name' must be initialized
 ```
@@ -144,7 +143,7 @@ name = null // 編譯錯誤
  
 會出現編譯錯誤
  
-```
+```kotlin
 var name: String? = "Alice"  
 name.length // 編譯錯誤
 name?.length // 編譯成功
@@ -200,7 +199,7 @@ class Stack<E>(vararg items: E) {
 
 會在建立物件時定義 `E` 的類別
 
-```
+```kotlin
 Stack(1, 2, 3) // Stack<Int>
 Stack("Alice", "Bob") //Stack<String>
 ```
