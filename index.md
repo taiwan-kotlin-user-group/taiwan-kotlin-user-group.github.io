@@ -26,7 +26,7 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 [推薦書單](book-list.md)
 
-[](https://play.kotlinlang.org/) - 線上執行 Kotlin 程式
+[Kotlin Playground](https://play.kotlinlang.org/) - 線上執行 Kotlin 程式
 
 ## 活動歷程
 
