@@ -26,6 +26,12 @@ Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式�
 
 [後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
 
+## 對函數編程有興趣
+
+對函數式編程（functional programming）有興趣嗎？
+
+[Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example.md)
+
 ## 學習資源
 
 [推薦書單](book-list.md)
