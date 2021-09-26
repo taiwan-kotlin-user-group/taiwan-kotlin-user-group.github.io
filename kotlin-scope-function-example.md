@@ -17,7 +17,7 @@ println(numbers)
 
 可以改寫成
 
-```
+```kotlin
 listOf(1, 2, 3)  
     .let { println(it) }
 ```
@@ -28,7 +28,7 @@ listOf(1, 2, 3)
 
 並將 `::println` 視為參數傳進去
 
-```
+```kotlin
 listOf(1, 2, 3)  
     .let(::println)
 ```
@@ -39,7 +39,7 @@ listOf(1, 2, 3)
 
 ```kotlin
 if (name != null) {
-	println(name.length)
+    println(name.length)
 }
 ```
 
@@ -101,7 +101,7 @@ println(2.run { toFloat() })
 data class Pet(var name: String, var age: Int=0)  
   
 val pet = Pet(name="Luna")  
-with(pet) { println(name) }
+with (pet) { println(name) }
 ```
 
 直接讀成「with pet, print (it's) name.」
@@ -157,8 +157,8 @@ data class Pet(var name: String, var age: Int=0)
 val pet = Pet(name="Luna")
 // 改名和設置年紀
 pet.apply {
-	name="Bella"
-	age=1
+    name="Bella"
+    age=1
 }
 ```
 
