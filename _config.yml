@@ -1,7 +1,14 @@
 theme: jekyll-theme-minimal
 title: Taiwan Kotlin User Group
 description: Taiwan Kotlin User Group 的網站
-logo: logo.png
+logo:
+  path: logo.png
+  height: 256
+  width: 256
+image:
+  path: logo.png
+  height: 256
+  width: 256
 google_analytics: UA-78953126-4
 kramdown:
   syntax_highlighter: rouge
