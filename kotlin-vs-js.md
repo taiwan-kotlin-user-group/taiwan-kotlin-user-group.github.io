@@ -1,4 +1,4 @@
-# Kotlin 和 Javascript 的比較
+## Kotlin 和 Javascript 的比較
 
 對前端來說
 
