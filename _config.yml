@@ -14,3 +14,5 @@ kramdown:
     css_class: 'highlight'
     span:
       line_numbers: false
+plugins:
+  - jekyll-image-size
