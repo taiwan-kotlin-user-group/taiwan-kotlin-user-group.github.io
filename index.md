@@ -1,6 +1,6 @@
-## Taiwan Kotlin User Group 的首頁
+Taiwan Kotlin User Group 
 
-Taiwan Kotlin User Group 是一個讓大家可以討論與交流 Kotlin 程式語言各種經驗的地方
+是一個讓大家可以討論與交流 Kotlin 程式語言各種經驗的地方
 
 增加使用 Kotlin 語言的流暢度與開發速度。
 
