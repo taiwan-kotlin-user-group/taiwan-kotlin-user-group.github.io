@@ -18,6 +18,8 @@ Taiwan Kotlin User Group
 
 [Kotlin 入門範例](kotlin-intro-example.md)
 
+[Kotlin Scope Functions 範例](kotlin-scope-function-example.md)
+
 ## 前端工程師請看
 
 [Kotlin 和 Javascript 的比較](kotlin-vs-js.md)
