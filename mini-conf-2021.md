@@ -21,4 +21,9 @@
 
 #### Ktor + Exposed
 
+講者：Recca Chao
+
+議題：作為一個新框架，Ktor 和其他框架相比，有著什麼樣的優勢？搭配上 Exposed 這個 ORM 框架之後，又會產生什麼樣的化學反應呢？今天我們來實際展示看看 Ktor + Exposed 到底該怎麼搭配！
+
 #### Kotlin Compiler Plugin
+
