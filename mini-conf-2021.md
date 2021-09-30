@@ -19,6 +19,8 @@
 
 #### Spring + Kotlin
 
+講者：Vincent Huang
+
 #### Ktor + Exposed
 
 講者：Recca Chao
