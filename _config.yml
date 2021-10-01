@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Taiwan Kotlin User Group
-description: Taiwan Kotlin User Group 的網站
+description: Taiwan Kotlin User Group 的網站，在台灣推廣 Kotlin 程式語言，舉辦 Kotlin 相關活動
 logo: logo.png
 page:
   header:
