@@ -21,12 +21,15 @@ kramdown:
     css_class: 'highlight'
     span:
       line_numbers: false
+seo: 
+  type: Organization
 defaults:
   - scope:
       path: ""
     values:
       image: /logo.png
-date: 2021-10-01
+page:
+  date: 2021-10-01
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
