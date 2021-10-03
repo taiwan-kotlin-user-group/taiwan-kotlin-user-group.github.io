@@ -3,7 +3,8 @@ canonical_url: 'https://taiwan-kotlin-user-group.github.io/'
 title: Taiwan Kotlin User Group
 tagline: Kotlin 愛好者的集散地
 description: Taiwan Kotlin User Group 的網站，在台灣推廣 Kotlin 程式語言，舉辦相關活動。如果對 Kotlin 有興趣，想要多瞭解一些，歡迎來我們的社群一起聚會！
-logo: logo.png
+logo: /logo.png
+type: website
 page:
   header:
     og_image: logo.png
@@ -20,6 +21,11 @@ kramdown:
     css_class: 'highlight'
     span:
       line_numbers: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /logo.png
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
