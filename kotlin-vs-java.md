@@ -166,3 +166,11 @@ fun main() = runBlocking {
 Java 目前未實作 coroutine
 
 必須自己撰寫切換執行緒的邏輯
+
+-----
+
+想看看其他的特性嗎？歡迎參考 
+* [Kotlin 語法特色](kotlin-syntax.md)
+* [Kotlin 慣用寫法](idioms.md)
+
+或加入 kotlin.tips 的 [Kotlin 讀書會](https://tw.kotlin.tips/study-jams) ！
