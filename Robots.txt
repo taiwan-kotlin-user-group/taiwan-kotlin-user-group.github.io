@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://taiwan-kotlin-user-group.github.io/sitemap.xml
