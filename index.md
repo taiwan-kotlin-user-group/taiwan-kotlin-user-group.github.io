@@ -42,7 +42,7 @@ Taiwan Kotlin User Group
 
 ## 套件介紹
 
-[Kotlin Exposed 介紹](kotlin-exposed-intro.,md)
+[Kotlin Exposed 介紹](kotlin-exposed-intro.md)
 
 ## 活動歷程
 
