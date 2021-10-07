@@ -40,6 +40,10 @@ Taiwan Kotlin User Group
 
 [Kotlin Playground](https://play.kotlinlang.org/) - 線上執行 Kotlin 程式
 
+## 套件介紹
+
+[Kotlin Exposed 介紹](kotlin-exposed-intro.,md)
+
 ## 活動歷程
 
 ### 2021-08-31 [2021 Kotlin Meetup #3 Online](https://www.facebook.com/events/1264189300692421/)
