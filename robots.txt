@@ -1,7 +1,7 @@
 User-agent: Googlebot
 Disallow: /*.xls$
 
-User-agent: 
-Disallow: 
+User-agent: *
+Allow: /
 
 Sitemap: https://taiwan-kotlin-user-group.github.io/sitemap.xml
