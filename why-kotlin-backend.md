@@ -96,3 +96,15 @@ fun main() {
 }
 ```
 
+-----
+
+想看更多範例嗎？
+
+可以看看
+
+* [## Kotlin 慣用寫法](idioms.md)
+* [Kotlin 入門範例](kotlin-syntax.md)
+* [Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example.md)
+
+
+或加入 kotlin.tips 的 [Kotlin 讀書會](https://tw.kotlin.tips/study-jams) ！
