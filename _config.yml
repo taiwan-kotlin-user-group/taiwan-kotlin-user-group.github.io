@@ -6,6 +6,7 @@ tagline: Kotlin 愛好者的集散地
 description: Taiwan Kotlin User Group 的網站，在台灣推廣 Kotlin 程式語言，舉辦相關活動。如果對 Kotlin 有興趣，想要多瞭解一些，歡迎來我們的社群一起聚會！
 logo: /logo.png
 type: website
+permalink: pretty
 page:
   header:
     og_image: logo.png
