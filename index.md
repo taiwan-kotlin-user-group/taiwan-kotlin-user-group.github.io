@@ -10,39 +10,39 @@ Taiwan Kotlin User Group
 
 ## 新人專區
 
-[為什麼選擇 Kotlin](why-kotlin.md)
+[為什麼選擇 Kotlin](why-kotlin)
 
-[Kotlin 語法特色](kotlin-syntax.md)
+[Kotlin 語法特色](kotlin-syntax)
 
-[Kotlin 慣用寫法](idioms.md)
+[Kotlin 慣用寫法](idioms)
 
-[Kotlin 入門範例](kotlin-intro-example.md)
+[Kotlin 入門範例](kotlin-intro-example)
 
-[Kotlin Scope Functions 範例](kotlin-scope-function-example.md)
+[Kotlin Scope Functions 範例](kotlin-scope-function-example)
 
 ## 前端工程師請看
 
-[Kotlin 和 Javascript 的比較](kotlin-vs-js.md)
+[Kotlin 和 Javascript 的比較](kotlin-vs-js)
 
 ## 後端工程師請看
 
-[後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
+[後端開發為什麼選擇 Kotlin](why-kotlin-backend)
 
 ## 對函數編程有興趣
 
 對函數式編程（functional programming）有興趣嗎？
 
-[Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example.md)
+[Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example)
 
 ## 學習資源
 
-[推薦書單](book-list.md)
+[推薦書單](book-list)
 
 [Kotlin Playground](https://play.kotlinlang.org/) - 線上執行 Kotlin 程式
 
 ## 套件介紹
 
-[Kotlin Exposed 介紹](kotlin-exposed-intro.md)
+[Kotlin Exposed 介紹](kotlin-exposed-intro)
 
 ## 活動歷程
 
