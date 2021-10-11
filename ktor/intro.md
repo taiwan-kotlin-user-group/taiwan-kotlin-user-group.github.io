@@ -4,7 +4,7 @@
 
 ## 什麼是 Ktor
 
-請參考 [Ktor 簡介](kotlin-ktor-intro.md)
+請參考 [Ktor 簡介](../kotlin-ktor-intro.md)
 
 ## 課程
 **行前準備**
