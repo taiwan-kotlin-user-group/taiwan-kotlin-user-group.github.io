@@ -28,13 +28,12 @@ Taiwan Kotlin User Group
 
 對函數式編程（functional programming）有興趣嗎？
 
-[Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example.md)
-
+- [Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example.md)
+- [Kotlin Scope Functions 範例](kotlin-scope-function-example.md)
 ## 學習資源
 
-[推薦書單](book-list.md)
-
-[Kotlin Playground](https://play.kotlinlang.org/) - 線上執行 Kotlin 程式
+- [推薦書單](book-list.md)
+- [Kotlin Playground](https://play.kotlinlang.org/) - 線上執行 Kotlin 程式
 
 ## 套件介紹
 
@@ -54,22 +53,22 @@ Taiwan Kotlin User Group
 
 ## 合作夥伴
 
-* Kotlin Taipei <https://www.facebook.com/groups/117755722221972/>
-* TWJUG <https://www.facebook.com/groups/twjug/>
-* Android Developer開發讀書會 <https://www.facebook.com/groups/523386591081376>
-* GDG 社群
-  * GDG 台北 <https://www.facebook.com/GDG.Taipei/>
-  * GDG 桃園 <https://www.facebook.com/GDG.Taoyuan/> 
-  * GDG 新竹 <https://www.facebook.com/GDG.Hsinchu/> 
-  * GDG 台中 <https://www.facebook.com/GDG.Taichung/>
-  * GDG 高雄 <https://www.facebook.com/groups/GDGKaohsiung/> 
-  * GDG 花蓮 <https://www.facebook.com/GDGHualien/>
-* Taiwan Backend Group <https://www.facebook.com/groups/taiwanbackendgroup>
+- Kotlin Taipei <https://www.facebook.com/groups/117755722221972/>
+- TWJUG <https://www.facebook.com/groups/twjug/>
+- Android Developer開發讀書會 <https://www.facebook.com/groups/523386591081376>
+- GDG 社群
+  - GDG 台北 <https://www.facebook.com/GDG.Taipei/>
+  - GDG 桃園 <https://www.facebook.com/GDG.Taoyuan/> 
+  - GDG 新竹 <https://www.facebook.com/GDG.Hsinchu/> 
+  - GDG 台中 <https://www.facebook.com/GDG.Taichung/>
+  - GDG 高雄 <https://www.facebook.com/groups/GDGKaohsiung/> 
+  - GDG 花蓮 <https://www.facebook.com/GDGHualien/>
+- Taiwan Backend Group <https://www.facebook.com/groups/taiwanbackendgroup>
 
 ###  YouTube 頻道
 
-* [Kraftsman:Coding 職人塾](https://www.youtube.com/channel/UCVR1hN4UGerZQQ9tE88h2xQ)
-* [Hank Li](https://www.youtube.com/channel/UCVYje6c5eOPJwu2-1tfQiEw)
+- [Kraftsman:Coding 職人塾](https://www.youtube.com/channel/UCVR1hN4UGerZQQ9tE88h2xQ)
+- [Hank Li](https://www.youtube.com/channel/UCVYje6c5eOPJwu2-1tfQiEw)
 
 ## 聯繫我們
 
