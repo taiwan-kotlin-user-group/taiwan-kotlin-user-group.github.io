@@ -10,15 +10,11 @@ Taiwan Kotlin User Group
 
 ## 新人專區
 
-[為什麼選擇 Kotlin](why-kotlin.md)
-
-[Kotlin 語法特色](kotlin-syntax.md)
-
-[Kotlin 慣用寫法](idioms.md)
-
-[Kotlin 入門範例](kotlin-intro-example.md)
-
-[Kotlin Scope Functions 範例](kotlin-scope-function-example.md)
+- [為什麼選擇 Kotlin](why-kotlin.md)
+- [Kotlin 語法特色](kotlin-syntax.md)
+- [Kotlin 慣用寫法](idioms.md)
+- [Kotlin 入門範例](kotlin-intro-example.md)
+- [Kotlin Scope Functions 範例](kotlin-scope-function-example.md)
 
 ## 前端工程師請看
 
@@ -42,9 +38,9 @@ Taiwan Kotlin User Group
 
 ## 套件介紹
 
-[Kotlin Exposed 介紹](kotlin-exposed-intro.md)
-
-[Kotlin Ktor 介紹](kotlin-ktor-intro)
+- [Kotlin Exposed 簡介](kotlin-exposed-intro.md)
+- [Kotlin Ktor 簡介](kotlin-ktor-intro)
+- [Kotlin Mockk 簡介](kotlin-mockk-intro.md)
 
 ## 活動歷程
 
