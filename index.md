@@ -70,6 +70,11 @@ Taiwan Kotlin User Group
   * GDG 花蓮 <https://www.facebook.com/GDGHualien/>
 * Taiwan Backend Group <https://www.facebook.com/groups/taiwanbackendgroup>
 
+###  YouTube 頻道
+
+* [Kraftsman:Coding 職人塾](https://www.youtube.com/channel/UCVR1hN4UGerZQQ9tE88h2xQ)
+* [Hank Li](https://www.youtube.com/channel/UCVYje6c5eOPJwu2-1tfQiEw)
+
 ## 聯繫我們
 
 有任何問題嗎？
