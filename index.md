@@ -10,41 +10,43 @@ Taiwan Kotlin User Group
 
 ## 新人專區
 
-[為什麼選擇 Kotlin](why-kotlin)
+[為什麼選擇 Kotlin](why-kotlin.md)
 
-[Kotlin 語法特色](kotlin-syntax)
+[Kotlin 語法特色](kotlin-syntax.md)
 
-[Kotlin 慣用寫法](idioms)
+[Kotlin 慣用寫法](idioms.md)
 
-[Kotlin 入門範例](kotlin-intro-example)
+[Kotlin 入門範例](kotlin-intro-example.md)
 
-[Kotlin Scope Functions 範例](kotlin-scope-function-example)
+[Kotlin Scope Functions 範例](kotlin-scope-function-example.md)
 
 ## 前端工程師請看
 
-[Kotlin 和 Javascript 的比較](kotlin-vs-js)
+[Kotlin 和 Javascript 的比較](kotlin-vs-js.md)
 
 ## 後端工程師請看
 
-[後端開發為什麼選擇 Kotlin](why-kotlin-backend)
+[後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
 
 ## 對函數編程有興趣
 
 對函數式編程（functional programming）有興趣嗎？
 
-[Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example)
+[Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example.md)
 
 ## 學習資源
 
-[推薦書單](book-list)
+[推薦書單](book-list.md)
 
 [Kotlin Playground](https://play.kotlinlang.org/) - 線上執行 Kotlin 程式
 
 ## 套件介紹
 
-[Kotlin Exposed 介紹](kotlin-exposed-intro)
+[Kotlin Exposed 介紹](kotlin-exposed-intro.md)
 
 ## 活動歷程
+
+### 2021-08-31 [2021 Kotlin Meetup #4 Online](https://www.facebook.com/events/4392745437499911/)
 
 ### 2021-08-31 [2021 Kotlin Meetup #3 Online](https://www.facebook.com/events/1264189300692421/)
 
