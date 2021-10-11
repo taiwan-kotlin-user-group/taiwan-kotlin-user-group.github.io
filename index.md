@@ -44,6 +44,8 @@ Taiwan Kotlin User Group
 
 [Kotlin Exposed 介紹](kotlin-exposed-intro.md)
 
+[Kotlin Ktor 介紹](kotlin-ktor-intro)
+
 ## 活動歷程
 
 ### 2021-08-31 [2021 Kotlin Meetup #4 Online](https://www.facebook.com/events/4392745437499911/)
