@@ -30,6 +30,11 @@ Taiwan Kotlin User Group
 
 - [Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example.md)
 - [Kotlin Scope Functions 範例](kotlin-scope-function-example.md)
+
+## 進階範例
+
+- [Kotlin Data Class 範例](kotlin-data-class-example.md)
+
 ## 學習資源
 
 - [推薦書單](book-list.md)
