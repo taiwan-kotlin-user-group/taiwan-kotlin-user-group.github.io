@@ -35,6 +35,7 @@ Taiwan Kotlin User Group
 
 - [Kotlin Data Class 範例](kotlin-data-class-example.md)
 - [Kotlin 的協變和反變](kotlin-covariance-contravariance.md)
+- [Kotlin 正規表達式慣用寫法](kotlin-regex-example.md)
 
 ## 學習資源
 
