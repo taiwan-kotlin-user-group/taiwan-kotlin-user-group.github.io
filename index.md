@@ -45,7 +45,7 @@ Taiwan Kotlin User Group
 ## 套件介紹
 
 - [Kotlin Exposed 簡介](kotlin-exposed-intro.md)
-- [Kotlin Ktor 簡介](kotlin-ktor-intro)
+- [Kotlin Ktor 簡介](kotlin-ktor-intro.md)
 - [Kotlin Mockk 簡介](kotlin-mockk-intro.md)
 
 ## 活動歷程
