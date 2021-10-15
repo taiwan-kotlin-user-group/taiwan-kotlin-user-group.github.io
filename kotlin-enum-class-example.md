@@ -72,6 +72,7 @@ println(Color.PINK.containsRed()) // true
 
 可以看看
 
+- [Kotlin Data Class 範例](kotlin-data-class-example.md)
 - [Kotlin 慣用寫法](idioms.md)
 - [Kotlin 入門範例](kotlin-syntax.md)
 - [Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example.md)
