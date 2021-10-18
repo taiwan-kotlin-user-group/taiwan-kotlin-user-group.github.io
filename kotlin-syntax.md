@@ -233,6 +233,18 @@ Kotlin 可以在編譯時推理變數型態
 val str = "hello"
 // 等同 val str : String = "hello"
 ```
+
+補充：
+
+Java 在 JDK 10 以後
+
+也支援 Type Inference
+
+```java
+var str = "hello";
+
+System.out.println(str); // hello
+```
 ## Type Aliases
 引入 `typealias` 關鍵字
 
