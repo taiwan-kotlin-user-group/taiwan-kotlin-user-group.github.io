@@ -18,8 +18,8 @@ Taiwan Kotlin User Group
 
 ## 前端工程師請看
 
-[Kotlin 和 Javascript 的比較](kotlin-vs-js.md)
-[Kotlin 0.1 + 0.2 是多少](kotlin-0.1+0.2.md)
+- [Kotlin 和 Javascript 的比較](kotlin-vs-js.md)
+- [Kotlin 0.1 + 0.2 是多少](kotlin-0.1+0.2.md)
 
 ## 後端工程師請看
 
