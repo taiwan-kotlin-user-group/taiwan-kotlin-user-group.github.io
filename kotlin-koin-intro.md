@@ -142,11 +142,11 @@ class MainLogic : KoinComponent {
 
 ```kotlin
 val myModule = module {
-	single { Calculator() as CalculatorInterface }
-	single { Printer() as PrinterInterface }
+    single { Calculator() as CalculatorInterface }
+    single { Printer() as PrinterInterface }
 }
 startKoin {
-	modules(myModule)
+    modules(myModule)
 }
 val mainLogic = MainLogic()
 mainLogic() 
@@ -160,11 +160,11 @@ mainLogic()
 
 ```kotlin
 val myNewModule = module {
-	single { NewCalculator() as CalculatorInterface }
-	single { NewPrinter() as PrinterInterface }
+    single { NewCalculator() as CalculatorInterface }
+    single { NewPrinter() as PrinterInterface }
 }
 startKoin {
-	modules(myNewModule)
+    modules(myNewModule)
 }
 val mainLogic = MainLogic()
 mainLogic() 
