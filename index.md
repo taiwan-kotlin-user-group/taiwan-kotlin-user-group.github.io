@@ -42,6 +42,10 @@ Taiwan Kotlin User Group
 - [Kotlin 的協變和反變](kotlin-covariance-contravariance.md)
 - [Kotlin 正規表達式慣用寫法](kotlin-regex-example.md)
 
+### 專案管理
+
+- [Kotlin 專案命名常規](kotlin-naming-example.md)
+- [不好的 Kotlin 專案命名範例](kotlin-bad-naming-example.md)
 
 ## 學習資源
 
