@@ -93,4 +93,3 @@ println(0.1.toBigDecimal() + 0.2.toBigDecimal()) // 0.3
 - [kotlin Data Class 範例](kotlin-data-class-example.md)
 
 或加入 kotlin.tips 的 [Kotlin 讀書會](https://tw.kotlin.tips/study-jams) ！
-如果使用 JavaScript
