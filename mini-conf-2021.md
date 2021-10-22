@@ -8,12 +8,18 @@
 
 |時間|議程|
 |----|----|
-|13:00 - 14:00| Keynote 播放|
-|14:00 - 14:30| 討論 |
-|14:30 - 15:30| mini-conf: Spring + Kotlin |
-|15:30 - 16:30| mini-conf: Ktor + Exposed |
-|16:30 - 17:30| mini-conf: Kotlin Compiler Plugin |
-|17:30 - 18:00| 會後交流 |
+|13:00 - 13:45| Keynote 播放|
+|13:45 - 14:15| Keynote 討論 |
+|14:15 - 14:30| 中場休息 |
+|14:30 - 15:00| mini-conf: Spring + Kotlin |
+|15:00 - 15:30| mini-conf: KMM 的 MVI 模式框架 - MVIKotlin |
+|15:30 - 16:00| mini-conf: You Might Need to Redesign Your Java Codes in Kotlin|
+|16:00 - 16:30| mini-conf: 将注解处理器（KAPT）迁移到符号处理器（KSP）|
+|16:30 - 17:00| mini-conf: Ktor + Exposed |
+|17:00 - 17:15| KUG 介紹|
+|17:15 - 17:45| mini-conf: 圓桌會議 |
+|17:45 - 18:00| 會後交流、抽獎 |
+
 
 ### 涵蓋講題
 
@@ -21,14 +27,35 @@
 
 講者：Vincent Huang
 
+議題：Spring Framework 是現在 JVM 生態系最火紅的框架。在Spring 5之後更是官方更是大力的支援Kotlin。本次議程想來跟大家聊聊Spring 跟 Kotlin 一起開發的心得感想
+
+#### KMM 的 MVI 模式框架 - MVIKotlin
+
+講者：乔禹昂
+
+議題：介绍可用于 KMM 的 Kotlin MVI 架构模式组件框架 MVIKotlin。
+
+#### You Might Need to Redesign Your Java Codes in Kotlin
+
+講者： GapLoTech
+
+議題：In a learning journey from Java to Kotlin, developers are tempted to only rewrite the Java codes to match Kotlin syntax without using the full power of Kotlin.
+
+The speaker has specially picked common scenerios/designs in Java to illustrate how to use Kotlin to abstract equivalent designs from “Java way” to “Kotlin way” that are simpler, conciser, and more powerful to model the business world.
+
+#### 将注解处理器（KAPT）迁移到符号处理器（KSP）
+
+講者：霍丙乾
+
+議題：Kotlin 符号处理器 KSP 是 Google 基于Kotlin 编译器插件开源的 Kotlin 元编程框架。它的使用场景与注解处理器直接对应，但有对 Kotlin 语法的原生支持。我们能获得的源码信息更全，同时由于不需要生成 Java 符号而比注解处理器也有极大的编译速度优势。
+
 #### Ktor + Exposed
 
 講者：Recca Chao
 
-議題：作為一個新框架，Ktor 和其他框架相比，有著什麼樣的優勢？搭配上 Exposed 這個 ORM 框架之後，又會產生什麼樣的化學反應呢？今天我們來實際展示看看 Ktor + Exposed 到底該怎麼搭配！
+議題：喜歡用 Kotlin 開發的感覺嗎？Ktor 框架是 JetBrains 建立的純 Kotlin 網頁框架，搭配一樣是純 Kotlin 的資料庫框架 Exposed，能讓你用簡潔的語法，快速建立好一個串接資料庫的後端服務！
 
-#### Kotlin Compiler Plugin
-
- ## 報名連接
+## 報名連接
  
- [我要參加 Kotlin 2021 Premiere Online Event Watch Party with Mini Conference in Taiwan！](https://docs.google.com/forms/d/e/1FAIpQLSeXHoatmGatAg31GFHdEchOWCdjty-kv9oXTQmWNOaS7gD9SA/viewform)
+[我要參加 Kotlin 2021 Premiere Online Event Watch Party with Mini Conference in Taiwan！](https://docs.google.com/forms/d/e/1FAIpQLSeXHoatmGatAg31GFHdEchOWCdjty-kv9oXTQmWNOaS7gD9SA/viewform)
+
