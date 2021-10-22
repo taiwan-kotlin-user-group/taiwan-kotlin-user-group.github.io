@@ -37,6 +37,7 @@ Taiwan Kotlin User Group
 - [Kotlin Data Class 範例](kotlin-data-class-example.md)
 - [Kotlin Enum Class 範例](kotlin-enum-class-example.md)
 - [Kotlin Sealed Class 範例](kotlin-sealed-class-example.md)
+- [Kotlin Object 範例](kotlin-object-example.md)
 - [Kotlin Delegation 範例](kotlin-delegation-example.md)
 - [Kotlin KDoc 註解範例](kotlin-kdoc-example.md)
 - [Kotlin 的協變和反變](kotlin-covariance-contravariance.md)
