@@ -20,6 +20,16 @@
 |17:15 - 17:45| mini-conf: 圓桌會議 |
 |17:45 - 18:00| 會後交流、抽獎 |
 
+### Online Event 講題
+
+- Kotlin & WebAssembly: A First Look.
+- KMM Beta Roadmap
+- What's New in Ktor 2.0 (live)
+- Spring Native with Kotlin (live)
+- Kotlin Symbol Processors
+- K2 Compiler: a top down view
+- Kover — the Code Coverage plugin
+- Improving Your Kotlin Code Quality With Qodana
 
 ### 涵蓋講題
 
