@@ -72,11 +72,9 @@ Taiwan Kotlin User Group
 
 ### 2021-03-23 [2021 Kotlin Meetup #1 來了！](https://www.facebook.com/events/480898682916368/)
 
-## 我想當講者
+-----
 
-想來 TKUG 舉辦的活動當講者嗎？
-
-歡迎私訊 [TKUG 粉絲專頁](https://www.facebook.com/kotlintwn) 聯繫
+- [我想當講者](wanted-speaker.md)
 
 ## 合作夥伴
 
