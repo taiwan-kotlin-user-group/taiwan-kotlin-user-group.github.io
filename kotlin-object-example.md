@@ -11,11 +11,11 @@
 可以直接用 `object` 宣告
 
 ```kotlin
-val date = object {                                              
-	val day = "01"
-	val month = "01"
-	val year = "2021"
-	fun getDate() = "${year}-${month}-${day}"
+val date = object {
+    val day = "01"
+    val month = "01"
+    val year = "2021"
+    fun getDate() = "${year}-${month}-${day}"
 }
 println(date.year) // 2021  
 println(date.getDate()) // 2021-01-01
