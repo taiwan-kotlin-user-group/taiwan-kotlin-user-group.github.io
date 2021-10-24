@@ -100,7 +100,9 @@ Taiwan Kotlin User Group
 
 有任何問題嗎？
 
-歡迎到 https://www.facebook.com/kotlintwn 聯繫我們！
+歡迎到 https://www.facebook.com/kotlintwn 粉絲專頁
+
+或透過 taiwan.kotlin(at)gmail.com 聯繫我們！
 
 
 
