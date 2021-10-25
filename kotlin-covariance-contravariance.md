@@ -75,6 +75,9 @@ fun demo(box: Box<Int>) {
 }
 ```
 
+這樣的宣告方式保留了子類型（subtype）轉換成父類型的作法
+
+允許子類型（`Box<Int>`）可以放入父類型（`Box<Number>`）裡面
 
 ### 反變（Contravariance）
 
@@ -125,6 +128,12 @@ fun demo(box: Box<Number>) {
     val bigBox: Box<Int> = box  
 }
 ```
+
+這樣的宣告方式
+
+反轉了子類型（subtype）轉換成父類型的作法
+
+變成是父類型（`Box<Number>`）可以放入子類型（`Box<Int>`）裡面了
 
 ## 實際應用
 
