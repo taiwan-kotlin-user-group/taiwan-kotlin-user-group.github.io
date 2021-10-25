@@ -211,7 +211,8 @@ println(files?.size ?: "empty")
 拋出例外 `IllegalStateException("Email is missing!")`
 
 ```kotlin
-val email = values["email"] ?: throw IllegalStateException("Email is missing!")
+val email = values["email"] 
+    ?: throw IllegalStateException("Email is missing!")
 ```
 
 ## 在可能為空的集合取出第一個元素
@@ -221,7 +222,7 @@ val email = values["email"] ?: throw IllegalStateException("Email is missing!")
 如果集合為空，則取出預設物件（`""`）
 
 ```kotlin
-val mainEmail: String = emails.firstOrNull() ?: ""
+val mainEmail = emails.firstOrNull() ?: ""
 ```
 
 ## 變數不為 `null` 時執行
@@ -254,7 +255,8 @@ fun transform(color: String): Int {
         "Red" -> 0
         "Green" -> 1
         "Blue" -> 2
-        else -> throw IllegalArgumentException("Invalid color")
+        else -> 
+            throw IllegalArgumentException("Invalid color")
     }
 }
 ```
@@ -334,7 +336,8 @@ fun transform(color: String): Int = when (color) {
     "Red" -> 0
     "Green" -> 1
     "Blue" -> 2
-    else -> throw IllegalArgumentException("Invalid color")
+    else -> 
+        throw IllegalArgumentException("Invalid color")
 }
 ```
 
@@ -382,7 +385,10 @@ val myRectangle = Rectangle().apply {
 ## Java 7 的 try-with-resources
 
 ```kotlin
-val stream = Files.newInputStream(Paths.get("/some/file.txt"))
+val stream = Files
+    .newInputStream(
+        Paths.get("/some/file.txt")
+    )
 stream.buffered().reader().use { reader ->
     println(reader.readText())
 }
@@ -397,7 +403,8 @@ stream.buffered().reader().use { reader ->
 ```java
 public final class Gson {
     // ...
-    public <T> T fromJson(JsonElement json, Class<T> classOfT) throws JsonSyntaxException {
+    public <T> T fromJson(JsonElement json, Class<T> classOfT) 
+        throws JsonSyntaxException {
     // ...
 ```
 
@@ -410,7 +417,8 @@ public final class Gson {
 取得泛型參數的類別資訊
 
 ```kotlin
-inline fun <reified T: Any> Gson.fromJson(json: JsonElement): T = this.fromJson(json, T::class.java)
+inline fun <reified T: Any> Gson.fromJson(json: JsonElement): T =
+    this.fromJson(json, T::class.java)
 ```
 
 這邊 `<T>` 型態是 `Any`
