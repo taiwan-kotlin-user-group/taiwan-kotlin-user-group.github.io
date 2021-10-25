@@ -385,8 +385,7 @@ val myRectangle = Rectangle().apply {
 ## Java 7 的 try-with-resources
 
 ```kotlin
-val stream = Files
-    .newInputStream(
+val stream = Files.newInputStream(
         Paths.get("/some/file.txt")
     )
 stream.buffered().reader().use { reader ->
