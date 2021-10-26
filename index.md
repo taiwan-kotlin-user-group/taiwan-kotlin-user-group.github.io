@@ -43,7 +43,7 @@ Taiwan Kotlin User Group
 - [Kotlin KDoc 註解範例](kotlin-kdoc-example.md)
 - [Kotlin 的協變和反變](kotlin-covariance-contravariance.md)
 - [Kotlin 正規表達式慣用寫法](kotlin-regex-example.md)
-
+- [Kotlin 中綴函數範例](kotlin-infix-function-example.md)
 ### 專案管理
 
 - [Kotlin 專案命名常規](kotlin-naming-example.md)
