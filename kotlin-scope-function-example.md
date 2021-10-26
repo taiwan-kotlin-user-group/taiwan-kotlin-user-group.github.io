@@ -1,4 +1,4 @@
-# Kotlin Scope Functions 範例
+# Kotlin Scope Function 範例
 
 這邊我們介紹一些 Kotlin 的 scope function
 
