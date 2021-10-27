@@ -81,5 +81,5 @@ The speaker has specially picked common scenerios/designs in Java to illustrate 
 
 ## 報名連接
  
-[我要參加 Kotlin 2021 Premiere Online Event Watch Party with Mini Conference in Taiwan！](https://docs.google.com/forms/d/e/1FAIpQLSeXHoatmGatAg31GFHdEchOWCdjty-kv9oXTQmWNOaS7gD9SA/viewform)
+[我要參加 2021 Kotlin 中文開發者大會！](https://docs.google.com/forms/d/e/1FAIpQLSeXHoatmGatAg31GFHdEchOWCdjty-kv9oXTQmWNOaS7gD9SA/viewform)
 
