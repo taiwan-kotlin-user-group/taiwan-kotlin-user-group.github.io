@@ -79,6 +79,14 @@ The speaker has specially picked common scenerios/designs in Java to illustrate 
 
 議題：喜歡用 Kotlin 開發的感覺嗎？Ktor 框架是 JetBrains 建立的純 Kotlin 網頁框架，搭配一樣是純 Kotlin 的資料庫框架 Exposed，能讓你用簡潔的語法，快速建立好一個串接資料庫的後端服務！
 
+## 抽獎獎項
+
+演講當天會從報名的聽眾中
+
+抽出兩位幸運的聽眾
+
+送給兩位 **IntelliJ IDEA 的序號**！
+
 ## 報名連接
  
 [我要參加 2021 Kotlin 中文開發者大會！](https://docs.google.com/forms/d/e/1FAIpQLSeXHoatmGatAg31GFHdEchOWCdjty-kv9oXTQmWNOaS7gD9SA/viewform)
