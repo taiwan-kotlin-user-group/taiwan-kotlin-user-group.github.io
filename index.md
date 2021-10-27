@@ -63,7 +63,7 @@ Taiwan Kotlin User Group
 
 ## 活動歷程
 
-### 2021-11-06 [Kotlin 2021 Premiere Online Event Watch Party with Mini Conference in Taiwan](mini-conf-2021.md)
+### 2021-11-06 [2021 Kotlin 中文開發者大會 Online](mini-conf-2021.md)
 
 ### 2021-10-19 [2021 Kotlin Meetup #4 Online](https://www.facebook.com/events/4392745437499911/)
 
