@@ -22,17 +22,15 @@ Kotlin 團隊每 6 個月一次的發佈週期，讓 Kotlin 快速的演進。
 
 |時間|議程|
 |----|----|
-|13:00 - 13:45| Keynote 播放|
-|13:45 - 14:15| Keynote 討論 |
-|14:15 - 14:30| 中場休息 |
-|14:30 - 15:00| mini-conf: Spring + Kotlin |
-|15:00 - 15:30| mini-conf: KMM 的 MVI 模式框架 - MVIKotlin |
-|15:30 - 16:00| mini-conf: You Might Need to Redesign Your Java Codes in Kotlin|
-|16:00 - 16:30| mini-conf: 将注解处理器（KAPT）迁移到符号处理器（KSP）|
-|16:30 - 17:00| mini-conf: Ktor + Exposed |
-|17:00 - 17:15| KUG 介紹|
-|17:15 - 17:45| mini-conf: 圓桌會議 |
-|17:45 - 18:00| 會後交流、抽獎 |
+|13:00-14:15|2021 Premier Event 主題演講觀影派對及論壇|
+|14:30-15:00| 以 Kotlin 編寫 Spring Framework|
+|15:00-15:30| KMM 的 MVI 模式框架 - MVIKotlin|
+|15:30-16:00| 轉換 Java 思維到 Kotlin（You Might Need to Redesign Your Java Codes in Kotlin）|
+|16:00-16:30| 將註解處理器（KAPT）遷移到符號處理器（KSP）|
+|16:30-17:00| 初探 Ktor 集成 Exposed 開發 Web 應用|
+|17:00-17:15| Kotlin 學習材料及用戶組資源|
+|17:15-17:45| Q&A|
+|17:45-18:00| 活動抽獎|
 
 ### Online Event 講題
 
