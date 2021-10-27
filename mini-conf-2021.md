@@ -81,11 +81,11 @@ The speaker has specially picked common scenerios/designs in Java to illustrate 
 
 ## 抽獎獎項
 
-演講當天會從報名的聽眾中
+演講當天主辦會從報名的聽眾中
 
-抽出兩位幸運的聽眾
+抽出 **2 組 JetBrains IntelliJ IDEA 一年份的個人使用序號**
 
-送給兩位 **IntelliJ IDEA 的序號**！
+請大家踴躍報名！
 
 ## 報名連接
  
