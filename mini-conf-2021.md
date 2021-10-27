@@ -4,6 +4,20 @@
 
 2021-11-06 13:00-18:00
 
+### 簡介
+
+Kotlin 團隊每 6 個月一次的發佈週期，讓 Kotlin 快速的演進。
+
+團隊剛發佈 1.5.31 更新，同時 1.6 也正在如火如荼的準備釋出中，大中華地區也有 7 個 Kotlin User Group 了！
+
+橫跨北京、上海、深圳、江西、合肥、香港、台灣等地。
+
+從 10 月 19 日起，Kotlin 團隊也開始今年一系列的線上直播活動，
+
+議題涵蓋 K2 編譯器、KSP、Kotlin/JS & WebAssembly、KMM、Server-Side（Ktor & Spring）、測試覆蓋率工具 Kover 及程式碼品質管理工具 Qodana 等。
+
+本次由 JetBrains 與大中華地區 7 個 Kotlin User Group 聯合舉辦 Kotlin 線上研討會，與所有中文開發者一起討論最新技術趨勢，機會難得，不容錯過！
+
 ### 議程
 
 |時間|議程|
