@@ -1,5 +1,6 @@
 ## 2021 Kotlin 中文開發者大會
 
+![mini conf logo](assets/images/2021-mini-conf.jpeg)
 ### 時間
 
 2021-11-06 13:00-18:00
