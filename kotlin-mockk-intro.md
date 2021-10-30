@@ -41,7 +41,7 @@ every { car.drive(Direction.SOUTH) } answers { callOriginal() }
 
 ### spy
 
-宣告 Car 的 spy 物件 `car`
+宣告 Car 的 `spyk` 物件 `car`
 
 在程式執行完之後
 
