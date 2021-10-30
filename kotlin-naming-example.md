@@ -189,7 +189,7 @@ class C {
 
 更多命名範例
 
-請參考 [[不好的 Kotlin 專案命名範例]] 進行對比
+請參考 [不好的 Kotlin 專案命名範例](kotlin-bad-naming-example.md) 進行對比
 
 -----
 
