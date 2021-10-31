@@ -92,6 +92,10 @@ Taiwan Kotlin User Group
   - GDG 花蓮 <https://www.facebook.com/GDGHualien/>
 - Taiwan Backend Group <https://www.facebook.com/groups/taiwanbackendgroup>
 
+###  夥伴粉專
+- [Kraftsman：Coding 職人塾](https://www.facebook.com/kraftsman.io)
+- [Recca Chao 網頁開發](https://www.facebook.com/ReccaChaoWebDev)
+
 ###  YouTube 頻道
 
 - [Kraftsman:Coding 職人塾](https://www.youtube.com/channel/UCVR1hN4UGerZQQ9tE88h2xQ)
@@ -101,7 +105,7 @@ Taiwan Kotlin User Group
 
 有任何問題嗎？
 
-歡迎到 https://www.facebook.com/kotlintwn 粉絲專頁
+歡迎到 <https://www.facebook.com/kotlintwn> 粉絲專頁
 
 或透過 taiwan.kotlin(at)gmail.com 聯繫我們！
 
