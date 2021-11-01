@@ -92,6 +92,10 @@ Taiwan Kotlin User Group
   - GDG 花蓮 <https://www.facebook.com/GDGHualien/>
 - Taiwan Backend Group <https://www.facebook.com/groups/taiwanbackendgroup>
 
+### 夥伴部落格
+- [Hank Li](https://hankli0130.github.io/)
+- [Recca Chao 的 gitHub page](https://gitpage.reccachao.net/)
+
 ###  夥伴粉專
 - [Kraftsman：Coding 職人塾](https://www.facebook.com/kraftsman.io)
 - [Recca Chao 網頁開發](https://www.facebook.com/ReccaChaoWebDev)
