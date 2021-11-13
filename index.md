@@ -97,8 +97,9 @@ Taiwan Kotlin User Group
 - [Recca Chao 的 gitHub page](https://gitpage.reccachao.net/)
 
 ###  夥伴粉專
-- [Kraftsman：Coding 職人塾](https://www.facebook.com/kraftsman.io)
-- [Recca Chao 網頁開發](https://www.facebook.com/ReccaChaoWebDev)
+- [Kraftsman：Coding 職人塾](https://www.facebook.com/kraftsman.io/)
+- [Recca Chao 網頁開發](https://www.facebook.com/ReccaChaoWebDev/)
+- [Andy Lu Medium](https://andyludeveloper.medium.com/)
 
 ###  YouTube 頻道
 
