@@ -102,7 +102,7 @@ fun main() {
 
 可以看看
 
-* [## Kotlin 慣用寫法](idioms.md)
+* [Kotlin 慣用寫法](idioms.md)
 * [Kotlin 入門範例](kotlin-syntax.md)
 * [Kotlin 的函數式編程慣用寫法](kotlin-functional-programming-example.md)
 
