@@ -23,7 +23,7 @@ Taiwan Kotlin User Group
 
 ## 後端工程師請看
 
-[後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
+- [後端開發為什麼選擇 Kotlin](why-kotlin-backend.md)
 
 ## 對函數編程有興趣
 
