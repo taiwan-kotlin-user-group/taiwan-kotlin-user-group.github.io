@@ -284,15 +284,14 @@ footer {
   }
 }
 
-.highlight .c1 {
-  color: #666;
-  font-style: italic;
+.highlight {
+  .c1 {
+    color: #666;
+    font-style: italic;
+  }
+
+  .o, .m, .mf, .mh, .mi, .mo, .il {
+    color: #066;
+  }
 }
 
-.highlight .mi {
-    color: #066;
-}
-
-.highlight .mh {
-    color: #066;
-}
