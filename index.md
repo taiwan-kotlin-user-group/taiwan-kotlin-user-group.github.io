@@ -96,6 +96,7 @@ Taiwan Kotlin User Group
 - [Hank Li](https://hankli0130.github.io/)
 - [Recca Chao 的 gitHub page](https://gitpage.reccachao.net/)
 
+
 ###  夥伴粉專
 - [Kraftsman：Coding 職人塾](https://www.facebook.com/kraftsman.io/)
 - [Recca Chao 網頁開發](https://www.facebook.com/ReccaChaoWebDev/)
@@ -105,6 +106,13 @@ Taiwan Kotlin User Group
 
 - [Kraftsman:Coding 職人塾](https://www.youtube.com/channel/UCVR1hN4UGerZQQ9tE88h2xQ)
 - [Hank Li](https://www.youtube.com/channel/UCVYje6c5eOPJwu2-1tfQiEw)
+
+## 推薦文章
+- [qrtt1 Medium](https://qrtt1.medium.com/)
+  - [ktor 是怎麼打造出來的 [1]](https://qrtt1.medium.com/ktor-%E6%98%AF%E6%80%8E%E9%BA%BC%E6%89%93%E9%80%A0%E5%87%BA%E4%BE%86%E7%9A%84-1-14ab2c2c2410)
+  - [ktor 是怎麼打造出來的 [2]](https://qrtt1.medium.com/ktor-%E6%98%AF%E6%80%8E%E9%BA%BC%E6%89%93%E9%80%A0%E5%87%BA%E4%BE%86%E7%9A%84-2-618911933ac7)
+  - [ktor 是怎麼打造出來的 [3]](https://qrtt1.medium.com/ktor-%E6%98%AF%E6%80%8E%E9%BA%BC%E6%89%93%E9%80%A0%E5%87%BA%E4%BE%86%E7%9A%84-3-f1e1733110aa)
+  - [ktor 是怎麼打造出來的 [4]](https://qrtt1.medium.com/ktor-%E6%98%AF%E6%80%8E%E9%BA%BC%E6%89%93%E9%80%A0%E5%87%BA%E4%BE%86%E7%9A%84-4-3d4e293cf716)
 
 ## 聯繫我們
 
