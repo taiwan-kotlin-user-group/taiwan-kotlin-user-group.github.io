@@ -83,13 +83,15 @@ Taiwan Kotlin User Group
 - Kotlin Taipei <https://www.facebook.com/groups/117755722221972/>
 - TWJUG <https://www.facebook.com/groups/twjug/>
 - Android Developer開發讀書會 <https://www.facebook.com/groups/523386591081376>
-- GDG 社群
+- Google Development Group 社群
   - GDG 台北 <https://www.facebook.com/GDG.Taipei/>
   - GDG 桃園 <https://www.facebook.com/GDG.Taoyuan/> 
   - GDG 新竹 <https://www.facebook.com/GDG.Hsinchu/> 
   - GDG 台中 <https://www.facebook.com/GDG.Taichung/>
   - GDG 高雄 <https://www.facebook.com/groups/GDGKaohsiung/> 
   - GDG 花蓮 <https://www.facebook.com/GDGHualien/>
+- Google Development Student Club 社群
+  - DSC CGU 技術開源社 <https://www.facebook.com/cgu.dsc/>  
 - Taiwan Backend Group <https://www.facebook.com/groups/taiwanbackendgroup>
 
 ### 夥伴部落格
