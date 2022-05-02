@@ -17,6 +17,9 @@ image:
   height: 256
   width: 256
 google_analytics: UA-78953126-4
+google:
+  tag_manager:
+    container_id: GTM-TKWF4X5
 kramdown:
   syntax_highlighter: rouge
   input: GFM
