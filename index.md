@@ -101,7 +101,7 @@ Taiwan Kotlin User Group
 ### 夥伴部落格
 - [Hank Li](https://hankli0130.github.io/)
 - [Recca Chao 的 gitHub page](https://gitpage.reccachao.net/)
-
+- [Maggie Kuo](https://medium.com/@maggie.kuo)
 
 ###  夥伴粉專
 - [Kraftsman：Coding 職人塾](https://www.facebook.com/kraftsman.io/)
