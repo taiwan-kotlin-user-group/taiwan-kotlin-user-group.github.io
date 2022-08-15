@@ -11,6 +11,7 @@ Taiwan Kotlin User Group
 ## 新人專區
 
 - [為什麼選擇 Kotlin](why-kotlin.md)
+- [Kotlin 和 Java 的比較](kotlin-vs-java.md)
 - [Kotlin 語法特色](kotlin-syntax.md)
 - [Kotlin 慣用寫法](idioms.md)
 - [Kotlin 入門範例](kotlin-intro-example.md)
