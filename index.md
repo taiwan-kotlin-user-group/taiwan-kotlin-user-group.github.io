@@ -63,6 +63,10 @@ Taiwan Kotlin User Group
 - [Kotlin Mockk 簡介](kotlin-mockk-intro.md)
 - [Kotlin Koin 簡介](kotlin-koin-intro.md)
 
+## 軟體開發社群公開活動
+
+<iframe src="https://calendar.google.com/calendar/embed?src=b3buhruprrkqmo6nhpc9u6eoig%40group.calendar.google.com&ctz=Asia%2FTaipei" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## 活動歷程
 
 ### 2022-05-31 [2022 Kotlin Meetup #6 Online](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-6/)
