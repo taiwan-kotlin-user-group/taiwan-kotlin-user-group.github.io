@@ -69,6 +69,8 @@ Taiwan Kotlin User Group
 
 ## 活動歷程
 
+### 2022-08-18 [2022 Kotlin Meetup #7 @ Dcard](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-7/)
+
 ### 2022-05-31 [2022 Kotlin Meetup #6 Online](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-6/)
 
 ### 2022-04-26 [2022 Kotlin Meetup #5 @ Dcard](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-5/)
