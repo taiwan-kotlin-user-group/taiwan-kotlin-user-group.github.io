@@ -8,6 +8,12 @@ Taiwan Kotlin User Group
 
 歡迎來我們的社群一起聚會！
 
+## MOすめ
+
+<a href="https://www.youtube.com/channel/UCFpr5TjvP6tFqccS_oTfWHw">
+<img src="https://i.imgur.com/FHEbblt.png" alt="mopcon">
+</a>
+  
 ## 新人專區
 
 - [為什麼選擇 Kotlin](why-kotlin.md)
