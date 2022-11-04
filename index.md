@@ -13,8 +13,14 @@ Taiwan Kotlin User Group
 <a href="https://www.youtube.com/channel/UCFpr5TjvP6tFqccS_oTfWHw">
 <img src="https://i.imgur.com/FHEbblt.png" alt="mopcon">
 </a>
-  
+
 ## 新人專區
+
+### Kotlin 怎麼念？
+
+cot-Lynn
+
+### 推薦文章
 
 - [為什麼選擇 Kotlin](why-kotlin.md)
 - [Kotlin 和 Java 的比較](kotlin-vs-java.md)
