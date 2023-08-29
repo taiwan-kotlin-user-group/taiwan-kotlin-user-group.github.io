@@ -6,7 +6,7 @@
 
 易學易用的 Kotlin 指南
 
-這本書同時也是第三梯次 [Kotlin 讀書會](https://tw.kotlin.tips/study-jams/) 選用書
+這本書同時也是第三、第四及第五梯次 [Kotlin 讀書會](https://tw.kotlin.tips/study-jams/) 選用書
 
 ### [Kotlin 權威 2.0：Android 專家養成術](https://www.tenlong.com.tw/products/9789864344796)
 
@@ -39,6 +39,21 @@
 內容不僅提到實際應用的層面
 
 還有大量觀念及和各個語言之間的比較
+
+## iT邦幫忙鐵人賽系列書
+
+### [Kotlin Collection 全方位解析攻略 : 精通原理及實戰，寫出流暢好維護的程式](https://www.tenlong.com.tw/products/9786263331136)
+
+### [從0到0.99 Android 架構開發實戰：以便利貼應用程式為例](https://www.tenlong.com.tw/products/9786263332577)
+
+### [Kotlin 小宇宙：使用 Coroutine 優雅的執行非同步任務](https://www.tenlong.com.tw/products/9786263333796)
+
+### [老姐要用 Kotlin 寫專案：從 Server 到 Android APP 的開發生存日記](https://www.tenlong.com.tw/products/9789864348978)
+
+### [KorGE 遊戲開發 : 帶你學會運用 Kotlin、KorGE、Ktor 技術打造自己的小遊戲](https://www.tenlong.com.tw/products/9789864348589)
+
+### [Android TDD 測試驅動開發：從 UnitTest、TDD 到 DevOps 實踐](https://www.tenlong.com.tw/products/9789864344901)
+
 
 ## 更多資源
 
