@@ -81,6 +81,8 @@ cot-Lynn
 
 ## 活動歷程
 
+### 2023-08-15 [Kotlin Meetup #10 @ PicCollage](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-10gei-rd-pm-de-ui-li-jie-ru-men-ke/)
+
 ### 2023-06-10 [Kotlin Annual Seminar 2023](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-annual-meetup-2023/)
 
 ### 2023-04-18 [2023 Kotlin Meetup: KotlinConf 2023 Global Watch Party](kotlinConf2023.md)
