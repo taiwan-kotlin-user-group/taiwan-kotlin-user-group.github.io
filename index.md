@@ -11,7 +11,7 @@ Taiwan Kotlin User Group
 ## MOすめ
 
 <a href="https://www.youtube.com/channel/UCFpr5TjvP6tFqccS_oTfWHw">
-<img src="https://upload.cc/i1/2023/05/29/TPHLm9.jpg" alt="mopcon">
+<img src="https://raw.githubusercontent.com/flamerecca/flamerecca.github.io/main/assets/TPHLm9.jpg" alt="mopcon">
 </a>
 
 ## 新人專區
