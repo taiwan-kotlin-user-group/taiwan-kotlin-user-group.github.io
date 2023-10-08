@@ -14,6 +14,10 @@ Taiwan Kotlin User Group
 <img src="https://raw.githubusercontent.com/flamerecca/flamerecca.github.io/main/assets/TPHLm9.jpg" alt="mopcon">
 </a>
 
+## 社群行為準則
+
+TKUG 的 [社群行為準則](code-of-conduct.md)
+
 ## 新人專區
 
 ### Kotlin 怎麼念？
