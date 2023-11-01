@@ -13,7 +13,7 @@ page:
     og_image: assets/images/logo-512.webp
 locale: zh_Hant_TW
 image:
-  path: logo.png
+  path: assets/images/logo-512.webp
   height: 256
   width: 256
 google_analytics: UA-78953126-4
