@@ -8,6 +8,8 @@ Taiwan Kotlin User Group
 
 歡迎來我們的社群一起聚會！
 
+[募款頁](fund.md)
+
 ## MOすめ
 
 <a href="https://www.youtube.com/channel/UCFpr5TjvP6tFqccS_oTfWHw">
