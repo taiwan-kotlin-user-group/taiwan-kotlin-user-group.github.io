@@ -87,6 +87,10 @@ cot-Lynn
 
 ## 活動歷程
 
+### 2024-05-27 [Kotlin Meetup #12 @ PicCollage](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-12kotlinru-zhi-101hou-duan-gong-cheng-shi-dao-di-zai-zuo-shi-mo/)
+
+### 2024-04-27 [Kotlin Meetup #11 @ 言文字](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-11kotlin-de-kong-zhi-an-quan-yong-kotlin-da-zao-geng-an-quan-de-ying-yong-cheng-shi/)
+
 ### 2023-08-15 [Kotlin Meetup #10 @ PicCollage](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-10gei-rd-pm-de-ui-li-jie-ru-men-ke/)
 
 ### 2023-06-10 [Kotlin Annual Seminar 2023](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-annual-meetup-2023/)
