@@ -87,7 +87,7 @@ cot-Lynn
 
 ## 活動歷程
 
-### 2024-06-18 [Kotlin Meetup #13： KotlinConf 2024 Global Watch Party](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-13-kotlinconf-2024-global-watch-party/)
+### 2024-06-18 [Kotlin Meetup #13： KotlinConf 2024 Global Watch Party @ 獺空間](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-13-kotlinconf-2024-global-watch-party/)
 
 ### 2024-05-27 [Kotlin Meetup #12 @ PicCollage](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-12kotlinru-zhi-101hou-duan-gong-cheng-shi-dao-di-zai-zuo-shi-mo/)
 
@@ -97,7 +97,7 @@ cot-Lynn
 
 ### 2023-06-10 [Kotlin Annual Seminar 2023](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-annual-meetup-2023/)
 
-### 2023-04-18 [2023 Kotlin Meetup: KotlinConf 2023 Global Watch Party](kotlinConf2023.md)
+### 2023-04-18 [2023 Kotlin Meetup: KotlinConf 2023 Global Watch Party @ 獺空間](kotlinConf2023.md)
 
 ### 2023-02-23 [2023 Kotlin Meetup #9](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-9/)
 
