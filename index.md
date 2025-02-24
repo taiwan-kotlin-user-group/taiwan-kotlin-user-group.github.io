@@ -81,6 +81,8 @@ cot-Lynn
 
 ## 活動歷程
 
+### 2025-02-12 [Kotlin Meetup #16：Kotlin 入門 : 簡潔又安全的語言](https://gdg.community.dev/events/details/google-gdg-tainan-presents-kotlin-meetup-16/)
+
 ### 2024-11-19 [Kotlin Meetup #15：Cassandra 應用 - 解決億量級消費數據分析問題 @ Dcard](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-15cassandra-ying-yong-jie-jue-yi-liang-ji-xiao-fei-shu-ju-fen-xi-wen-ti/) 
 
 ### 2024-10-15 [Kotlin Meetup #14：KSP + AI to boost your productivity @ DCard](https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-meetup-14ksp-ai-to-boost-your-productivity/)
