@@ -140,7 +140,6 @@ cot-Lynn
 - Taiwan Backend Group <https://www.facebook.com/groups/taiwanbackendgroup>
 
 ### 夥伴部落格
-- [Hank Li](https://hankli0130.github.io/)
 - [Recca Chao 的 gitHub page](https://gitpage.reccachao.net/)
 - [Maggie Kuo](https://medium.com/@maggie.kuo)
 - [Jintin](https://medium.com/@jintin)
