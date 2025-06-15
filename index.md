@@ -81,6 +81,10 @@ cot-Lynn
 
 ## 活動歷程
 
+### 2025-04-09 [Kotlin Meetup #19：這不是你平常寫的 Kotlin：Code Golf 的黑魔法 @ Dcard](https://www.meetup.com/taiwan-kotlin-user-group/events/307852975/)
+
+### 2025-04-09 [Kotlin Meetup #18：Ktor 3.0 入門：簡述 Ktor 3.0 的特點以及架設方式 @ 好想工作室](https://www.meetup.com/taiwan-kotlin-user-group/events/306971471/)
+
 ### 2025-03-27 [Kotlin Meetup #17：讓老家電變智慧：Kotlin + CMP 打造雙平台遠端控制 App @ Dcard](https://www.meetup.com/taiwan-kotlin-user-group/events/306236451/)
 
 ### 2025-02-12 [Kotlin Meetup #16：Kotlin 入門 : 簡潔又安全的語言 @ 好想工作室](https://gdg.community.dev/events/details/google-gdg-tainan-presents-kotlin-meetup-16/)
